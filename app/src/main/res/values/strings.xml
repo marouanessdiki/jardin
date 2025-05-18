@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">jardin</string>
+    <string name="app_name">Jardin</string>
+    <string name="title_home">Home</string>
+    <string name="title_add">Add Plant</string>
+    <string name="title_profile">Profile</string>
+    <!-- Add other strings as needed -->
 </resources>
