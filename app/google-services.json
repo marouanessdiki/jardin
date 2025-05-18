@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "133525421669",
+    "project_id": "jardin-38fa0",
+    "storage_bucket": "jardin-38fa0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133525421669:android:669a849bcd97bbbcfdd08c",
+        "android_client_info": {
+          "package_name": "com.example.jardin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPhsdIuBJaEjnjjEA5waQqIZ5d4DfiMYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
